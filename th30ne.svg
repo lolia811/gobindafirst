@@ -1,0 +1,63 @@
+<svg fill="none"  viewBox="0 0 500 160" width="500" height="160" xmlns="http://www.w3.org/2000/svg">
+<foreignObject width="100%" height="100%">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<style>
+*{
+padding:0;
+margin:0;
+outline:0;
+text-overflow:ellipsis;
+}
+body{
+}
+.container {
+margin: 0;
+width: calc(100% - 28px);
+height: 160px;
+background:transparent;
+padding:10px;
+margin-top:5px;
+position:relative;
+margin-left:4px;
+font-size:25px;
+color:Black;
+text-align:center;
+text-shadow:0px 0px 3px #f80;
+}
+
+.container:before{
+content:'';
+height:120px;
+width:120px;
+background:#f80;
+z-index:-1;
+border-radius:50%;
+transform:translateX(50%);
+position:absolute;
+animation:ani 5s ease-in-out infinite;
+}
+@keyframes ani{
+0%{
+transform:translateX(100%) scale(0);
+opacity:.5;
+}
+100%{
+transform:translateX(100%) scale(3);
+opacity:0;
+}
+}
+</style>
+<div class="container">
+BEST HACKER IN INDIA
+<br/>
+GOBINDA KUMAR SAHANI ।।
+<br/>
+BEST HOSTING ANDROID HACKING TOOLS ।
+<br/>
+FLLOW ME ON TELEGRAM GKALLCRACKER।
+<br/>
+
+</div>
+</div>
+</foreignObject>
+</svg>
